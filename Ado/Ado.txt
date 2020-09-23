@@ -1,0 +1,16 @@
+Advanced Ado Database
+
+Load your categorys in a treeview, create new entries under your personla categorys.
+Three (!) completely  different kinds of searching will help you finding any entrie you
+ are looking for.
+You can create new categorys, delete or modify them. Learn how to create a better
+database for contacts, source code or whatever.
+The Treeview is resizeable ! easy by draging it to the left or right!
+The sample application is 90% done, fully functionally and kept without a personal note
+for a simple demo. (means no stupid pics and icons you are  deleting  anyway )
+You can easily change everything for your own needs. The database is
+MS Access 97 Format. (You can upgrade to MS Access 2000 without changing any code. )
+
+
+Author: Ranma Saotome & PSC
+
