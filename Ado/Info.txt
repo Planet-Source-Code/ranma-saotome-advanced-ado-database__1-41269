@@ -1,0 +1,8 @@
+Entries in Category second category = 2
+Entries in Category first category = 3
+Entries in Category sixth category = 0
+Entries in Category third category = 4
+Entries in Category seventh category = 0
+Entries in Category fourth category = 1
+Entries in Category eigth category = 0
+Entries in Category fifth category = 4
